@@ -9,7 +9,7 @@ Automated grading of homework assignments and tests
 # Problems
 ## Slicing_list01
 
-  A list called numbers is given. Return the items in the odd index.
+  A list called numbers is given. Return the items in the even index.
 
 **Example 1:**
 
@@ -107,7 +107,7 @@ Output: ['a', 1, 'b']
 
 ```Python
 Input: list1=['a', 'b', 'c', 'd', 'e', 'f'] n = 2 k = 5
-Output: ['c', 'd', 'e', 'f']
+Output: ['c', 'd', 'e']
 
 ```
 
